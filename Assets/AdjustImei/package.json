@@ -1,0 +1,6 @@
+{
+    "name": "com.adjust.sdk.imei",
+    "version": "4.32.1",
+    "displayName": "AdjustImei",
+    "description": "Adjust IMEI Unity SDK plugin."
+}

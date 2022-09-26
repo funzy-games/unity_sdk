@@ -1,0 +1,6 @@
+{
+    "name": "com.adjust.sdk.oaid",
+    "version": "4.32.1",
+    "displayName": "AdjustOaid",
+    "description": "Adjust OAID Unity SDK plugin."
+}

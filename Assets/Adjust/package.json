@@ -1,0 +1,6 @@
+{
+    "name": "com.adjust.sdk",
+    "version": "4.32.1",
+    "displayName": "Adjust",
+    "description": "Adjust Unity SDK plugin."
+}
